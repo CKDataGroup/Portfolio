@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Manuel Amorim | Portfolio</title>
+    <link rel="stylesheet" href="enhanced_portfolio.css" />
+</head>
+<body class="Background">
+    <!--Navbar-->
+    <div class="Navbar">
+        <a class="active" href="#Home">Home</a>
+        <a href="#About">About</a>
+        <a href="#GitHub">Projects</a>
+        <a href="#Contact">Contact</a>
+    </div>
+
+    <!--Spacing below navbar-->
+    <br><br>
+
+    <!--Background Video-->
+    <div id="Home">
+        <video autoplay muted loop id="BackgroundVideo">
+            <source src="images/video/teamvideo.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+        </video>
+        <div class="VideoOverlay"></div>
+    </div>
+
+    <!--Overlay Text on Video-->
+    <div class="VideoText">
+        <h1 class="white-text">Manuel Amorim : Portfolio</h1>
+        <strong>
+            <p class="center">
+                <q>An entrepreneur is an architect of opportunity, building ventures that inspire growth and leave a lasting impact.</q>
+                <br>
+                <br> - Manuel Amorim
+                <br><br>Welcome to my portfolio website.
+                <br>Thank you for stopping by!
+            </p>
+        </strong>
+    </div>
+
+    <!--Content Sections-->
+    <section id="About" class="Section">
+        <h2>About Me</h2>
+        <p>I am a software developer and entrepreneur passionate about web development and digital innovation. Skilled in HTML, CSS, JavaScript, and more, I enjoy building intuitive, dynamic websites that deliver real value to users. As I transition from Toronto to Portugal, I am focused on leveraging technology to create meaningful solutions and scalable business opportunities.</p>
+    </section>
+
+    <section id="GitHub" class="Section">
+        <h2>GitHub</h2>
+        <p>Visit my <a href="https://github.com/orgs/CKDataGroup/repositories?q=visibility%3Apublic+archived%3Afalse" target="_blank">GitHub profile</a> to view my projects and code samples.</p>
+    </section>
+
+    <section id="Contact" class="Section">
+        <h2>Contact</h2>
+        <form>
+            <label>Name:</label>
+            <input type="text" placeholder="Your Name" />
+            <label>Email:</label>
+            <input type="text" placeholder="Your Email" />
+            <label>Message:</label>
+            <input type="text" placeholder="Your Message" />
+            <input type="submit" value="SUBMIT" />
+        </form>
+    </section>
+
+    <!--Footer-->
+    <footer>
+        <p class="center">&copy; 2025 Manuel Amorim</p>
+    </footer>
+</body>
+</html>
