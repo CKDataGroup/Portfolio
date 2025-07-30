@@ -23,11 +23,10 @@ What This Website Includes
 Technologies Used
 -------------------------------
 This site was built using:
-- HTML5
-- CSS3
-- Optional: JavaScript and Bootstrap for styling and interactivity
+- HTML
+- CSS
 
-All code and content are hosted using a cPanel-based hosting platform, with files organized under the `public_html` directory.
+All code and content are hosted using a cPanel-based hosting platform.
 
 -------------------------------
 How to Use or Edit This Site
