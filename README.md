@@ -16,7 +16,7 @@ What This Website Includes
 -------------------------------
 - Home: An introduction to who I am and what this website is about.
 - About: A deeper look at my background, values, and professional journey.
-- Projects: A portfolio of businesses I’ve led or contributed to, current ventures, and selected highlights.
+- Projects: Contains a link to Github to see my site.
 - Contact: Ways to connect with me for partnerships, opportunities, or discussions.
 
 -------------------------------
