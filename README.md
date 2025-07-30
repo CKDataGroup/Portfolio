@@ -1,4 +1,4 @@
-===============================
+
 My Personal Portfolio Website
 ===============================
 
@@ -42,7 +42,7 @@ Contact Me
 If you'd like to collaborate, invest, or simply connect, feel free to reach out:
 
 Email: manuel@ckdatagroup.com    
-GitHub: github.com/yourusername  
+
 
 -------------------------------
 Thank You
