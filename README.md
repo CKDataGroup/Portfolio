@@ -9,7 +9,7 @@ About Me
 -------------------------------
 My name is Manuel. I am an experienced entrepreneur with over 40 years in business, now focused on launching new ventures in Portugal, particularly in the food and hospitality industries. My goal is to use my expertise to develop and scale a successful business system, ideally into a franchise model with 10 locations in 3–5 years. 
 
-Beyond business, I’m passionate about cycling, community, and my faith. Jesus Christ has had a profound influence on my life and work, guiding every major decision I’ve made. This site reflects both my professional goals and personal convictions.
+Beyond business, I’m passionate about cycling, community, and my faith. Jesus Christ has had a profound influence on my life and work, guiding every major decision I’ve made.
 
 -------------------------------
 What This Website Includes
@@ -23,9 +23,8 @@ What This Website Includes
 Technologies Used
 -------------------------------
 This site was built using:
-- HTML5
-- CSS3
-- Optional: JavaScript and Bootstrap for styling and interactivity
+- HTML
+- CSS
 
 All code and content are hosted using a cPanel-based hosting platform, with files organized under the `public_html` directory.
 
